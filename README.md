@@ -1,2 +1,1 @@
-# Experimental-Data-Analysis-Course
-Experimental Data Analysis Course
+# 在此目录下以自己姓名全拼为名创建子目录
